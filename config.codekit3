@@ -245,6 +245,14 @@
 		"oS": 0,
 		"sct": 0
 		},
+	"/dev/TheCrate.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/dev/TheCrate.mp4",
+		"oF": 0
+		},
 	"/gsap-bonus.tgz": {
 		"cB": 0,
 		"ft": 8192,
